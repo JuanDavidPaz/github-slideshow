@@ -1,0 +1,32 @@
+* {
+    background-color: #ffd8b4;
+    color: #292929;
+    text-align: center;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #ade5ff;
+}
+
+#a {
+    text-align: justify;
+    text-transform: initial;
+}
+.b {
+    background-color: #fda6e3;
+}
+
+a {
+    color: #002fff85;
+    font-size: 25px;
+}
+
+p {
+    text-align: left;
+
+}
+
+.yt{
+    font-size: 30px;
+    color: red;
+}
